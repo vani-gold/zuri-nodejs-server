@@ -1,0 +1,19 @@
+{
+  "name": "zuri-first-server",
+  "version": "1.0.0",
+  "description": "This my assignment from Zuri",
+  "main": "script.js",
+  "scripts": {
+    "start": "script.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Esibe vanessa",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
